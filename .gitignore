@@ -1,3 +1,8 @@
+# Directories
+bin/
+lib/
+.idea/
+
 # gitignore for Django
 TurnPageRoot/TurnPageRoot/.env
 TurnPageRoot/db.sqlite3
