@@ -1,4 +1,5 @@
 console.log("https://github.com/gcivil-nyu-org/team-3-inperson")
+
 let startingPosition;
 let currentPosition;
 let swipedRight = false;
